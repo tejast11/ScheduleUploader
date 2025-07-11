@@ -1,0 +1,15 @@
+Manifest-Version: 1.0
+Main-Class: UpdateHdNuts900ServiceApplication
+Class-Path: snakeyaml-2.2.jar bson-5.0.1.jar micrometer-commons-1.13.4.j
+ ar spring-jcl-6.1.13.jar spring-boot-autoconfigure-3.3.4.jar bson-recor
+ d-codec-5.0.1.jar spring-boot-3.3.4.jar spring-context-6.1.13.jar micro
+ meter-observation-1.13.4.jar spring-boot-starter-data-mongodb-3.3.4.jar
+  spring-data-commons-3.3.4.jar spring-beans-6.1.13.jar spring-boot-devt
+ ools-3.3.4.jar log4j-api-2.23.1.jar spring-aop-6.1.13.jar spring-core-6
+ .1.13.jar jakarta.annotation-api-2.1.1.jar spring-data-mongodb-4.3.4.ja
+ r mongodb-driver-sync-5.0.1.jar mongodb-driver-core-5.0.1.jar log4j-to-
+ slf4j-2.23.1.jar spring-boot-starter-logging-3.3.4.jar spring-boot-star
+ ter-3.3.4.jar logback-classic-1.5.8.jar spring-expression-6.1.13.jar lo
+ gback-core-1.5.8.jar slf4j-simple-2.0.13.jar jul-to-slf4j-2.0.16.jar sl
+ f4j-api-2.0.16.jar spring-tx-6.1.13.jar
+
